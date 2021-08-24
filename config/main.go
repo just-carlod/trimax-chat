@@ -2,6 +2,6 @@ package config
 import (
 	"log"
 )
-func hello() {
+func Hello() {
 	log.Println("Hello config ")
 }
